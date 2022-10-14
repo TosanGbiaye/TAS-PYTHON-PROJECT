@@ -9,3 +9,4 @@ class Human:
 
 Man = Human()
 print(Man.name, Man.group, Man.get_name_group())
+
